@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
               ),
               child: const Text(
                 "VIEW MY BIO!",
-                style: TextStyle(fontSize: 14),
+                style: TextStyle(fontSize: 14, color: Colors.white),
               ),
             ),
             Padding(
